@@ -2,6 +2,9 @@
 - How to make HTTP requests in Flutter
 - Making GET, POST, PUT, PATCH, and DELETE requests
 
+![demo](https://user-images.githubusercontent.com/45789407/203035992-4a938169-23d1-47f6-8c66-baa7a075e987.png)
+
+
 ## Getting Started
 
 A Flutter project to show how to make HTTP requests in Flutter.
