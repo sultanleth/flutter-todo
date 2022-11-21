@@ -1,16 +1,12 @@
-# todo
-
-A new Flutter project.
+# TODO
+- How to make HTTP requests in Flutter
+- Making GET, POST, PUT, PATCH, and DELETE requests
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Flutter project to show how to make HTTP requests in Flutter.
+- This project shows how to make HTTP requests using the http package by the Dart team.
+- In this project we will use JSONPlaceholder as a target for our APIs.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This code is taken from the following video:
+https://youtu.be/jymr1hEvfkM

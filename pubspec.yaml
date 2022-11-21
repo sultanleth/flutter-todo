@@ -1,5 +1,7 @@
 name: todo
-description: A new Flutter project.
+description: A Flutter project to show how to make HTTP requests in Flutter.
+Making GET, POST, PUT, PATCH, and DELETE requests.
+This project shows how to make HTTP requests using the http package by the Dart team. We will be using JSONPlaceholder as a target for our APIs.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
